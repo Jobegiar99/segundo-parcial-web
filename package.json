@@ -1,0 +1,18 @@
+{
+  "name": "parcial2",
+  "version": "1.0.0",
+  "description": "segundo parcial a00823490",
+  "main": "parcial2_a00823490.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  "author": "bernardo giron arana a00823490",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
